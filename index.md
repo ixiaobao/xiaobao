@@ -154,3 +154,5 @@ seu相关口令菜单：
 "^出现$|^快出现$|^小宝$"
 "^领萌$"
 ```
+
+感谢你阅读到这里，想来[点个star吗](https://github.com/ixiaobao/xiaobao)⭐，求求了
