@@ -1,6 +1,14 @@
 ![xiaobao](https://socialify.git.ci/haoruilee/xiaobao/image?font=Rokkitt&logo=https%3A%2F%2Fs3.ax1x.com%2F2020%2F12%2F03%2FD72Nid.jpg&pattern=Circuit%20Board&theme=Light)
 
 # 东南大学i小宝使用说明
+- 我是谁
+- 使用说明
+- - 写在前面
+- - 常见引导
+- - 与上一版本口令的区别
+- - 关键词响应机制
+- - 判断对话对象
+- - 口令的模板匹配菜单
 
 ## 我是谁
   i小宝是东南大学至善小宝社团用课余时间免费为学生群体开发的QQ回复机器人，希望可以让大家在东大的生活更简单！本页为机器人的使用说明，初步撰写可能有所疏漏，欢迎在[调查问卷](https://www.wjx.cn/jq/98433077.aspx)中提供反馈或在本项目中提出issue 🤗
